@@ -39,7 +39,7 @@ namespace zadanie1
 
         public static string FormatResult(Tuple<double?, double?> result)
         {
-            return $"x1: {result.Item1},x2: {result.Item2}";
+            return $"x1: {result.Item1}, x2: {result.Item2}";
         }
     }
 }
